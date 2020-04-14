@@ -1,0 +1,12 @@
+C:\Users\Admin\source\repos\photo select\photo select\bin\Debug\photo select.exe.config
+C:\Users\Admin\source\repos\photo select\photo select\bin\Debug\photo select.exe
+C:\Users\Admin\source\repos\photo select\photo select\bin\Debug\photo select.pdb
+C:\Users\Admin\source\repos\photo select\photo select\obj\Debug\quiz.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\photo select\photo select\obj\Debug\photo_select.Form1.resources
+C:\Users\Admin\source\repos\photo select\photo select\obj\Debug\photo_select.Form2.resources
+C:\Users\Admin\source\repos\photo select\photo select\obj\Debug\photo_select.Form3.resources
+C:\Users\Admin\source\repos\photo select\photo select\obj\Debug\photo_select.Form4.resources
+C:\Users\Admin\source\repos\photo select\photo select\obj\Debug\photo_select.Properties.Resources.resources
+C:\Users\Admin\source\repos\photo select\photo select\obj\Debug\quiz.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\photo select\photo select\obj\Debug\photo select.exe
+C:\Users\Admin\source\repos\photo select\photo select\obj\Debug\photo select.pdb
